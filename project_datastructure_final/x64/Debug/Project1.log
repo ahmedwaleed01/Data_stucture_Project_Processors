@@ -1,0 +1,11 @@
+﻿  NewList.cpp
+C:\Users\ahmed waleed\OneDrive\Desktop\project_datastructure_final\NewList.h(8,1): warning C4005: 'NULL': macro redefinition
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vcruntime.h(233,1): message : see previous definition of 'NULL'
+  Source.cpp
+C:\Users\ahmed waleed\OneDrive\Desktop\project_datastructure_final\NewList.h(8,1): warning C4005: 'NULL': macro redefinition
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vcruntime.h(233,1): message : see previous definition of 'NULL'
+C:\Users\ahmed waleed\OneDrive\Desktop\project_datastructure_final\Source.cpp(77,6): warning C4101: 'tt': unreferenced local variable
+C:\Users\ahmed waleed\OneDrive\Desktop\project_datastructure_final\Source.cpp(80,6): warning C4101: 'count': unreferenced local variable
+  Generating Code...
+  IO_REQUEST.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> C:\Users\ahmed waleed\OneDrive\Desktop\project_datastructure_final\x64\Debug\Project1.exe
